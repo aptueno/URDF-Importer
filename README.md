@@ -1,5 +1,13 @@
 # URDF Importer 
 
+# Forked Repository
+
+## Installation by Package Manager
+
+```
+https://github.com/aptueno/URDF-Importer.git?path=/com.unity.robotics.urdf-importer#feature/support_ios
+```
+
 [![Version](https://img.shields.io/github/v/tag/Unity-Technologies/URDF-Importer)](https://github.com/Unity-Technologies/URDF-Importer/releases)
 [![License](https://img.shields.io/badge/license-Apache--2.0-green.svg)](LICENSE.md)
 ![Unity](https://img.shields.io/badge/unity-2020.2+-brightgreen)
